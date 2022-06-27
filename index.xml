@@ -2,19 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://QAQDaisy.github.io.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 16:36:11 +0800</lastBuildDate><atom:link href="https://QAQDaisy.github.io.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog</title>
-      <link>https://QAQDaisy.github.io.github.io/post/blog/</link>
-      <pubDate>Mon, 27 Jun 2022 16:36:11 +0800</pubDate>
-      
-      <guid>https://QAQDaisy.github.io.github.io/post/blog/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
